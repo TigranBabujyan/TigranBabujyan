@@ -36,7 +36,6 @@ I focus on practical web applications that solve real user problems: AI-assisted
 AI-powered wine education and quiz platform with multiple game modes, Gemini-powered quiz generation, and an offline question bank.
 
 - Live demo: [wine-quiz-kappa.vercel.app](https://wine-quiz-kappa.vercel.app/)
-- Repository: [TigranBabujyan/wine-quiz](https://github.com/TigranBabujyan/wine-quiz)
 - Stack: Next.js, TypeScript, Google Genkit, Gemini, Tailwind CSS
 
 ### Wine AI Assistant
