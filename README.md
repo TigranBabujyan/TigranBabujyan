@@ -31,7 +31,7 @@ I focus on practical web applications that solve real user problems: AI-assisted
 
 ## Featured Projects
 
-### WineWise Quizzes
+### Vinlecta
 
 AI-powered wine education and quiz platform with multiple game modes, Gemini-powered quiz generation, and an offline question bank.
 
